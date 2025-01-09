@@ -8,6 +8,7 @@ export default function Footer() {
                         <div className="col-md-4 gy-5">
                             <div className="location text-center">
                                 <h3>LOCATION</h3>
+                                <p>Hello</p>
                                 <p>2215 John Daniel Drive</p>
                                 <p>Clark, MO 65243</p>
                             </div>
